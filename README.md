@@ -283,7 +283,12 @@ hr-analytics-powerbi/
 │
 ├── docs/
 │   └── HR_Analytics_Dashboard_Report.md
-│
+|
+├── dashboard snapshots/
+|   ├── Overview.png
+|   ├── Department_Deep_Drive.png
+│   └── Employee_Segmentation.png
+|
 ├── README.md
 ├── requirements.txt
 ├── LICENSE
