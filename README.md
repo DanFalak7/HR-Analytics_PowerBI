@@ -269,8 +269,6 @@ Result: 7 years | Purpose: Organizational maturity metric
 
 ## File Structure
 
-## File Structure
-
 ```plaintext
 hr-analytics-powerbi/
 │
@@ -396,8 +394,7 @@ For technical questions or feature suggestions, feel free to reach out.
 ---
 
  
-**Last Updated:** June 2026   
-**Time to Build:** 15+ hours  
+**Last Updated:** June 2026     
 **Rows of Data:** 1,470 employees | 35 data columns
 
 **Key Achievement:** Demonstrates that Power BI can handle complex multivariate analysis while maintaining clean UX and fast performance.
